@@ -31,32 +31,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.data_distribution.executor": "Run",
-    "Python.decision_tree.executor": "Run",
-    "Python.linear_regression.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.mean_Median_mode.executor": "Run",
-    "Python.multiple_regression.executor": "Run",
-    "Python.normal_data_distribution.executor": "Run",
-    "Python.percentiles.executor": "Run",
-    "Python.polynomial_regression.executor": "Run",
-    "Python.scale.executor": "Run",
-    "Python.scatter_plot.executor": "Run",
-    "Python.standard_deviation.executor": "Run",
-    "Python.train_test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.confusion_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_distribution.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decision_tree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linear_regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mean_Median_mode.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiple_regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.normal_data_distribution.executor&quot;: &quot;Run&quot;,
+    &quot;Python.percentiles.executor&quot;: &quot;Run&quot;,
+    &quot;Python.polynomial_regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scale.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scatter_plot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.standard_deviation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train_test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="mean_Median_mode" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Machine Learning" />
@@ -99,7 +100,8 @@
       <option name="presentableId" value="Default" />
       <updated>1713091410473</updated>
       <workItem from="1713091411637" duration="3584000" />
-      <workItem from="1713166097346" duration="4137000" />
+      <workItem from="1713166097346" duration="4510000" />
+      <workItem from="1713186832735" duration="24000" />
     </task>
     <servers />
   </component>
@@ -109,6 +111,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Machine_Learning$train_test.coverage" NAME="train_test Coverage Results" MODIFIED="1713168535607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Machine_Learning$linear_regression.coverage" NAME="linear_regression Coverage Results" MODIFIED="1713094788463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Machine_Learning$confusion_matrix.coverage" NAME="confusion_matrix Coverage Results" MODIFIED="1713170497225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Machine_Learning$normal_data_distribution.coverage" NAME="normal_data_distribution Coverage Results" MODIFIED="1713093809261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Machine_Learning$scale.coverage" NAME="scale Coverage Results" MODIFIED="1713167871115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Machine_Learning$standard_deviation.coverage" NAME="standard_deviation Coverage Results" MODIFIED="1713092797208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
